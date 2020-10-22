@@ -24,4 +24,4 @@ else:
   
 mathfinal = int(text1)+ int(text2)
 if text1 > text2 > text3(final):
-  print("Hooray! You did it!")
+  print("Hooray! You did it")
