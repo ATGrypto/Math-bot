@@ -1,7 +1,7 @@
 # Math-bot
 print("Title of program: Math Revision")
 print()
-print("Welcome to this wonderful math revision website! Please answer the following questions truthfully and you to test your math calculation skills!")
+print("Please answer the following questions truthfully and you to test your math  skills!")
 print("Please respond with an answer")
 print()
 
